@@ -1,0 +1,3 @@
+microRNA.map            this package generates microRNA count files
+                        ready for downstream analysis from raw
+                        sequencing data
