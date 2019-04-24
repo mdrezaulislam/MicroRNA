@@ -1,7 +1,7 @@
 # MicroRNA
 
 An R package to derive microRNA counts from high throughput sequencing data.
-Currently the package is suitable to quantify microRNAs from only human and
+Currently the package is suitable to quantify microRNAs only from human and
 mouse sequencing data. 
 
 The package reports quality of the sequencing files, map raw sequencing data to the genome and
